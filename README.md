@@ -2,7 +2,7 @@
 
 Team Koocho 
 
-Koocho is a mobile app platform for bartering goods, services and skills, trade what you dont need for what you need, your trade skills for items you need and so much more
+Koocho is a mobile app platform for bartering goods, services and skills, trade your skills, products and services for other products and services you really need. 
 
 Team members: Manthole Maila
 
