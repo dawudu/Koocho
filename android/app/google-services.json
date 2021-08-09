@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999540743308",
+    "project_id": "koochobarterapp",
+    "storage_bucket": "koochobarterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999540743308:android:cdc3cdd59e0720f9a36fa9",
+        "android_client_info": {
+          "package_name": "com.example.koocho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999540743308-964be9a9lntlo9vbtel100uqjq6l95v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.koocho",
+            "certificate_hash": "f21de794dcba4cdd9da84bdf783a33b61d6447c1"
+          }
+        },
+        {
+          "client_id": "999540743308-ghrrmsfqtne7dnbolrtebc13ph7f3fme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW6RXqDUGLKoTQSoD94macrQhRbINTjIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999540743308-ghrrmsfqtne7dnbolrtebc13ph7f3fme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
