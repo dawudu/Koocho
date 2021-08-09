@@ -1,6 +1,10 @@
 # koocho
 
-A new Flutter project.
+Team Koocho 
+
+Koocho is a mobile app platform for bartering goods, services and skills. Trade your skills, products and services for other products and services you really need. 
+
+Team members: Manthole Maila
 
 ## Getting Started
 
