@@ -4,9 +4,7 @@
 ![koocho9](https://user-images.githubusercontent.com/29302783/135814928-98f52f38-dd4d-42e8-9941-d92df943d2b5.png)
 # koocho
 
-Team Koocho 
-
-Koocho is a mobile app platform for bartering goods, services and skills. Trade your skills, products and services for other products and services you really need. 
+ 
 
 Team members: Manthole Maila
 
